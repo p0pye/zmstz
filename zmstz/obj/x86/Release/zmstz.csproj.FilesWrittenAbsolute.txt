@@ -1,0 +1,1 @@
+/home/popye/Documents/monoproj/zmstz/zmstz/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs

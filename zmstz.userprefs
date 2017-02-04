@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="zmstz/zmstz.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="zmstz/Bill.cs">
+    <Files>
+      <File FileName="zmstz/Utils.cs" Line="37" Column="18" />
+      <File FileName="zmstz/Program.cs" Line="85" Column="63" />
+      <File FileName="zmstz/FileInfo.cs" Line="48" Column="107" />
+      <File FileName="zmstz/Bill.cs" Line="117" Column="120" />
+      <File FileName="zmstz/Record.cs" Line="43" Column="39" />
+      <File FileName="zmstz/Patient.cs" Line="82" Column="33" />
+      <File FileName="zmstz/Incident.cs" Line="260" Column="42" />
+      <File FileName="zmstz/Service.cs" Line="116" Column="60" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>this</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

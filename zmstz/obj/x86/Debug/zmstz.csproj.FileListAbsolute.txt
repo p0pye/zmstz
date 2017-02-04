@@ -1,0 +1,5 @@
+Z:\proj\zmstz\zmstz\obj\x86\Debug\zmstz.exe
+Z:\proj\zmstz\zmstz\bin\Debug\zmstz.exe
+Z:\proj\zmstz\zmstz\bin\Debug\zmstz.pdb
+Z:\proj\zmstz\zmstz\obj\x86\Debug\zmstz.csprojResolveAssemblyReference.cache
+Z:\proj\zmstz\zmstz\obj\x86\Debug\zmstz.pdb

@@ -1,0 +1,5 @@
+/home/popye/Documents/monoproj/zmstz/zmstz/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/popye/Documents/monoproj/zmstz/zmstz/bin/Debug/zmstz.exe.mdb
+/home/popye/Documents/monoproj/zmstz/zmstz/bin/Debug/zmstz.exe
+/home/popye/Documents/monoproj/zmstz/zmstz/obj/x86/Debug/zmstz.exe
+/home/popye/Documents/monoproj/zmstz/zmstz/obj/x86/Debug/zmstz.exe.mdb
